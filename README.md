@@ -23,7 +23,8 @@ C++ solutions for AOC 2020 event
 * ✅**Day 19:** Looks like a simple _brute force_ problem using _recursion_, but this problem requires some basic analysing to not stuck for years with _brute forcing_ of second part.
 * ✅**Day 20:** One of the most annoying problem. I spent half a day debugging it... Pretty hard problem that requires a lot of code to be written. I solved using _bit masks_ and _recursion_.
 * ✅**Day 21:** Not that hard how it looks like. Solved using _hash tables_ and _brute force_.
-* ... 
+* ✅**Day 22:** First part is simple _constructive_ problem that could be solved using queues, and the second part requires some caching optimisation to speed up the solving. **P.S.** Better to compile with **-O3**, so the solution finding takes couple of seconds. 
+* ...
 
 ## License
 MIT
