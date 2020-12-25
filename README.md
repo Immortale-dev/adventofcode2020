@@ -26,7 +26,7 @@ C++ solutions for AOC 2020 event
 * ✅**Day 22:** First part is simple _constructive_ problem that could be solved using queues, and the second part requires some caching optimisation to speed up the solving. **P.S.** Better to compile with **-O3**, so the solution finding takes couple of seconds. 
 * ✅**Day 23:** Both parts are just for simple _list operations_. The only trick is to make a map to access list items by label in **O(1)**. Anyway second part could take couple of seconds to complete :P
 * ✅**Day 24:** First part is a problem for _coordinating on hexagon grid_, and the second part is **cellular automata simulation** game on hexagon grid, lol
-* ...
+* ✅**Day 25:** First part it pretty simple constructive problem! And the second part is better to see by yourself :P
 
 ## License
 MIT
